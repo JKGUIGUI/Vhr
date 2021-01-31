@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/vhr?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: a1997914
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  mail:
+    host: smtp.office365.com
+    protocol: smtp
+    default-encoding: UTF-8
+
+server:
+  port: 8082
+jpa:
+  hibernate:
+    ddl-auto: update
+  show-sql: true
+main:
+  allow-bean-definition-overriding: true
