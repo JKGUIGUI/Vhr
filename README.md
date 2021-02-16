@@ -18,4 +18,4 @@
 
 #权限
 ![posman测试](https://github.com/JKGUIGUI/Vhr/blob/master/ImageFolder/3.png?raw=true)
-![]()
+![posman测试](https://github.com/JKGUIGUI/Vhr/blob/master/ImageFolder/4.png?raw=true)
